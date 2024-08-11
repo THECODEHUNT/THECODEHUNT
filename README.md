@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pawanpreet Kaur
+![Pawanpreet kaur](C:\Users\Pawanpreet Kaur\Downloads\github banner.png)
 - 🔭 I’m currently working on Mern Stack development
 - 🌱 I’m currently learning UIUX
 - 💞️ I’m looking to collaborate on WEBDEVLOPMENT PROJECTS
