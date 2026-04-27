@@ -8,11 +8,34 @@
 
 ###
 
-<img align="right" height="198" src="https://taeluralexis.com/wp-content/uploads/2023/10/tumblr_mjk9t4LutC1qkai1do1_500-1.gif"  />
+ ## About me
+ <img align="right" height="198" src="https://taeluralexis.com/wp-content/uploads/2023/10/tumblr_mjk9t4LutC1qkai1do1_500-1.gif"  />  
+ 
+**Cybersecurity Analyst · Digital Forensics · OSINT**
+- Cybersecurity & Digital Forensics researcher with govt-level experience (I4C/MHA, Gurugram Police Cyber Cell)
+- Currently building **DeepShield AI** — deepfake detection & synthetic media forensics
+- Learning: Incident response · SIEM · Penetration testing
+- Looking for: Junior Cybersecurity / SOC Analyst / Digital Forensics roles
+  
 
-###
+## Skills
+| Category | Tools & Skills |
+|---|---|
+| Digital Forensics | Autopsy · UFED · Wireshark · Kali Linux |
+| OSINT & Recon | Maltego · Shodan · theHarvester · OSINT frameworks |
+| SOC & Detection | Log analysis · Incident response · IOC analysis |
+| Programming | Python · JavaScript · React.js · REST APIs |
+| Platforms | [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/pawanpreet.kaur2000.png)](https://tryhackme.com/p/pawanpreet.kaur2000) (Top 10%) · CyberDefenders · Blue Team Labs |
 
-<h4 align="left">🔭 I’m currently working on Deepfake research<br><br>🌱 I’m currently learning incidence responce<br><br>🤝 I’m looking for help with  Advanced Development & Cybersecurity Projects<br><br>👨‍💻 All of my projects are available at soon<br><br>📫 How to reach me 👇</h4>
+## Featured projects
+- **DeepShield AI** — AI-based deepfake detection research framework
+- **OSINT Recon Toolkit** — Automated Python CLI for OSINT reconnaissance
+- **Digital Forensics Lab** — Forensic case documentation and analysis
+- **CTF Writeups** — TryHackMe and CyberDefenders challenge writeups
+
+## Connect
+- Portfolio: [pawanpreet-cyber-lab.vercel.app](https://pawanpreet-cyber-lab.vercel.app)
+- LinkedIn: [linkedin.com/in/pawanpreet-kaur](https://linkedin.com)
 
 ###
 
